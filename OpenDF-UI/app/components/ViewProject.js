@@ -16,6 +16,7 @@ export class Card extends React.Component {
   }
 
   render() {
+    console.log(this.props.details);
     return (
       <article className="card">
         <CardBody details={this.props.details} />
