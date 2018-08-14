@@ -38,11 +38,11 @@
     },
     {
       "title": "Open Frost",
-      "text": " A pilot project for testing OpenDF React UI",
+      "text": "A pilot project for testing OpenDF React UI",
       "investigator": "Investigator02",
       "company": "UCSC",
       "image" : "https://redpiranha.net/sites/default/files/revslider/image/digital_forensics_slide_1.jpg",
-      "id": 8
+      "id": 7
     }
   ]
 }
